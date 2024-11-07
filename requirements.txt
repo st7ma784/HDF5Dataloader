@@ -1,0 +1,5 @@
+pysmartdl
+pytorch-lightning
+torch
+torchvision
+h5py
